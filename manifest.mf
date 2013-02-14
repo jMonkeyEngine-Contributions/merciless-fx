@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: me.merciless.fx
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: me/merciless/fx/layer.xml
+OpenIDE-Module-Localizing-Bundle: me/merciless/fx/Bundle.properties
+
